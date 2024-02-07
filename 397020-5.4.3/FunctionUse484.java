@@ -1,0 +1,6 @@
+import cn.hutool.http.useragent.UserAgentInfo;
+public class FunctionUse484 {
+public void funcUse() {
+UserAgentInfo useragentinfo = new UserAgentInfo();
+}
+}
